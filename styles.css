@@ -1,0 +1,14 @@
+/* Write your CSS here! */
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+.profile-pic {
+    text-align: center;
+}
+.frustrating-emphasis {
+    text-align: center;
+    color: red;
+    font-family: monospace;
+    font-size: large;
+}
